@@ -1,0 +1,2 @@
+inp.assign(n, 0);
+In this case, inp.assign(n, 0); initializes a vector inp with n elements, all set to 0.
